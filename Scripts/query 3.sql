@@ -1,5 +1,5 @@
-//get a list of all sales and all customers even if some of the data 
-//has been removed (note that SQLLite doesn't support FULL JOIN)
+--get a list of all sales and all customers even if some of the data 
+--has been removed (note that SQLLite doesn't support FULL JOIN)
 -- Left Join to find rows in "sales" with no matching customer
 SELECT s.*, c.*
 FROM sales s
