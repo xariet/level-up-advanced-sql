@@ -9,6 +9,9 @@ This course is integrated with GitHub Codespaces, an instant development environ
 
 Each installment of the Level Up series offers at least 15 bite-sized opportunities to practice programming at various levels of difficulty, so you can challenge yourself and reinforce what you’ve learned. Check out the “Using GitHub Codespaces with this course” video to learn how to get a codespace up and running.
 
+![image](https://github.com/xariet/level-up-advanced-sql/assets/58727818/40f74ec8-b8fa-4091-85e9-57b154662cdf)
+
+
 ### Instructor
 
 Jess Pomfret 
